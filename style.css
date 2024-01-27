@@ -95,11 +95,11 @@ body{
     background-color: #ffef78;
 }
 
-.clear{
+.double{
     flex-basis: 47%;
 }
 
-.zero{
+.triple{
     flex-basis: 73%;
 }
 
